@@ -1,18 +1,19 @@
-# web_2048
-2048 mini game by html5
+# Web 2048
 
-pay attention to custom dir that including all full effect with finished 2048 games
+2048 mini game by html5.
 
-from imooc ..  thanks
+Pay attention to custom dir that including all full effect with finished 2048 games
 
-##get start
+From imooc.com.
 
-clone master brach that you could enjoy PC-side browser 2048 game, unsupport mobile phone
+## Get Start
 
-if you want to play on your phone browser then I suggest you clone fullgame branch, it's imooc website teacher's production.
+Clone master brach that you could enjoy PC-side browser 2048 game, unsupport mobile phone
 
-##online play
+If you want to play on your phone browser then I suggest you clone fullgame branch, it's imooc website teacher's production.
 
-you could access my personal website http://blog.jovibox.org/node/13 to play this mini web game online.
+## online play
+
+You could access my personal website to play this mini web game [online](https://blog.jovipro.com/node/6).
 
 Good enjoy!
