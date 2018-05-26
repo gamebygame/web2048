@@ -1,0 +1,80 @@
+
+header {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+
+/* 游戏标题样式 */
+header h1 {
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* 开始游戏按钮样式 */
+header #newGameButton {
+    display: block;
+    margin: 10px auto;
+    width: 120px;
+
+    padding: 5px 5px;
+    background-color: #8f7a66;
+
+    font-family: Arial;
+    font-size: 15px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+/* 给开始游戏按钮增加点击的伪类 */
+header #newGameButton:hover {
+    background-color: #9f8b77;
+}
+
+/* 显示分数行标签增加样式 */
+header p {
+    font-family: Arial;
+    font-size: 25px;
+    margin: 5px auto;
+}
+
+
+/* 这里是游戏主界面的样式 就是那个盒子 */
+#grid-container {
+    width: 460px;
+    height: 460px;
+    padding: 20px;
+
+    margin: 20px auto;
+    background-color: #8B6969;
+    border-radius: 10px;
+
+    /* 为方便小格子的定位 父类大盒子用 relative */
+    position: relative;
+}
+
+/* 每个小格子的样式 */
+.grid-cell {
+    width: 100px;
+    height: 100px;
+    border-radius: 6px;
+    background-color: #CD9B9B;
+
+    /* 具体每个小格子的位置用 js 控制  这里先写上绝对定位 */
+    position: absolute;
+}
+
+/* 每个数字块的样式 这玩意会从后台生成的 */
+.number-cell {
+    border-radius: 6px;
+    font-family: Arial;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+
+    /* 这属性忘了吧 哈哈 行高就是每一行文本之间的上下距离啦 */
+    line-height: 100px;
+    position: absolute;
+}
