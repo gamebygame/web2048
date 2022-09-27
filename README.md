@@ -14,6 +14,6 @@ If you want to play on your phone browser then I suggest you clone fullgame bran
 
 ## Online Playing
 
-You could access my personal website to play this mini web game [online](https://blog.jovipro.com/node/6).
+You could access my personal website to play this mini web game [online](https://blackpearl.fun/zh/games/casual/2048).
 
 Good enjoy!
