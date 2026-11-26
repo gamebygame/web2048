@@ -17,3 +17,7 @@ If you want to play on your phone browser then I suggest you clone fullgame bran
 You could access my personal website to play this mini web game [online](https://blackpearl.fun/zh/games/casual/2048).
 
 Good enjoy!
+
+## License
+
+[MIT](LICENSE) © 2026 Jovi.
